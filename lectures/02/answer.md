@@ -16,7 +16,7 @@
 - 取り組んだレベル：基礎
 - 変えた設定やデータ：
 - 結果（比較表や数字）：
-lora_r format_rate content_rate 最終loss 学習時間
-16     
-32
+lora_r	format_rate	content_rate 	最終loss
+16			
+
 - ファインチューニングが向く場面・向かない場面についての考察：
