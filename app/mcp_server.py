@@ -29,7 +29,10 @@ server.tool()(tools.search_glossary)
 server.tool()(tools.save_learning_log)
 
 # TODO(宿題・基礎): get_lecture_summary も公開しよう
+server.tool()(tools.get_lecture_summary)
 
+# TODO(宿題・実践: make_quiz も公開しよう
+server.tool()(tools.make_quiz)
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="用語集 MCP サーバー")
